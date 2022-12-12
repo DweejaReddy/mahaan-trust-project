@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("img/img1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.cont{
+    position: relative;
+}
+.heading{
+    position: absolute;
+    top: 90px;
+    color: #55251D;
+    left: 60%;
+}
+.subhead{
+    position: absolute;
+    top: 150px;
+    color: #55251D;
+    left: 58%;
+}
